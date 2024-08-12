@@ -1,0 +1,62 @@
+
+.request-services {
+    padding: 10rem 9% 2rem;
+    padding-bottom: 10rem;
+  }
+  .request-services h2 {
+    margin-bottom: 5rem;
+  }
+  .request-section {
+      max-width: 600px;
+      margin: auto;
+      border-radius: 5px;
+  }
+  
+  .request-section h2 {
+      text-align: center;
+      /* color: var(--text-color); */
+  }
+  
+  .request-section input,
+  .request-section select,
+  .request-section textarea {
+      width: 100%;
+      padding: 1.5rem;
+      font-size: 1.6rem;
+      border-radius: 5px;
+      border: 1px solid var(--bg-color);
+      background-color: var(--second-bg-color);
+      color: var(--text-color);
+  }
+ 
+  .request-section select {
+    margin: 0.7rem 0;
+  }
+  .request-section textarea {
+    height: 15rem;
+  }
+  
+  .request-section input:focus,
+  .request-section select:focus,
+  .request-section textarea:focus {
+      outline: none;
+      border-color: var(--color-3);
+  }
+  
+  #service-button {
+    width: 100%;
+    text-align: center;
+    margin-top: 1rem;
+  }
+  
+  #statusMessage-service-form, #statusMessage-contact-form {
+      margin-top: 20px;
+      text-align: center;
+      font-weight: bold;
+      font-size: 2rem;
+      color: var(--main-color);
+  }
+
+  #statusMessage-contact-form {
+  width: 40rem
+}
