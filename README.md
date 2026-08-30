@@ -1,2 +1,2 @@
-# Hanzala-Personal-Portfolio
-Personal Portfolio
+# Portfolio
+Portfolio
